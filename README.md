@@ -13,9 +13,6 @@ Clean and modern UI
 Easy to customize
 
 
-🙋‍♂️ Author
-Prithula
-
 📃 License
 This project is open source and available under the MIT License.
 
